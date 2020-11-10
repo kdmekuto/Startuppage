@@ -41,7 +41,7 @@ body {
   background:rgba(255, 255, 255, 0.8);
   width: 410px;
   min-height: 480px;
-  max-height: 500px;
+  /*max-height: 500px;*/
   box-shadow: 0px 15px 35px -5px rgba(50, 88, 130, 0.32);
   border-radius: 15px;
   padding: 30px;
@@ -317,39 +317,222 @@ body {
   }
 }
 
-.github-btn {
+.yt-btn {
   position: absolute;
   right: 40px;
   bottom: 50px;
   text-decoration: none;
   padding: 15px 25px;
   border-radius: 4px;
-  box-shadow: 0px 4px 30px -6px rgba(36, 52, 70, 0.65);
-  background: #24292e;
+  box-shadow: 0px 4px 30px -6px rgba(255, 0, 0, 0.65);
+  background: #ff0000;
   color: #fff;
   font-weight: bold;
   letter-spacing: 1px;
   font-size: 16px;
   transition: all 0.3s ease-in-out;
+  width: 125px;
+  text-align: center;
 }
 @media screen and (min-width: 500px) {
-  .github-btn:hover {
+  .yt-btn:hover {
     transform: scale(1.1);
-    box-shadow: 0px 17px 20px -6px rgba(36, 52, 70, 0.36);
+    box-shadow: 0px 17px 20px -6px rgba(255, 0, 0, 0.65);
   }
 }
 @media screen and (max-width: 700px) {
-  .github-btn {
+  .yt-btn {
     position: relative;
     bottom: auto;
     right: auto;
     margin-top: 20px;
   }
-  .github-btn:active {
+  .yt-btn:active {
     transform: scale(1.1);
-    box-shadow: 0px 17px 20px -6px rgba(36, 52, 70, 0.36);
+    box-shadow: 0px 17px 20px -6px rgba(255, 0, 0, 0.65);
   }
 }
+
+.kdrama-btn {
+  position: absolute;
+  right: 180px;
+  bottom: 50px;
+  text-decoration: none;
+  padding: 15px 25px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 30px -6px rgba(0, 110, 255, 0.65);
+  background: #0672ff;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  width: 125px;
+  text-align: center;
+}
+@media screen and (min-width: 500px) {
+  .kdrama-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(0, 110, 255, 0.65);
+  }
+}
+@media screen and (max-width: 700px) {
+  .kdrama-btn {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 20px;
+  }
+  .kdrama-btn:active {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(0, 110, 255, 0.65);
+  }
+}
+
+.MEGA-btn {
+  position: absolute;
+  right: 40px;
+  bottom: 110px;
+  text-decoration: none;
+  padding: 15px 25px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 30px -6px rgba(84, 201, 255, 0);
+  background: #7ab3f9;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  width: 125px;
+  text-align: center;
+}
+@media screen and (min-width: 500px) {
+  .MEGA-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(84, 201, 255, 0.596);
+  }
+}
+@media screen and (max-width: 700px) {
+  .MEGA-btn {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 20px;
+  }
+  .MEGA-btn:active {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(255, 0, 0, 0.65);
+  }
+}
+
+.OPAL-btn {
+  position: absolute;
+  right: 180px;
+  bottom: 110px;
+  text-decoration: none;
+  padding: 15px 25px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 30px -6px rgba(255, 0, 0, 0);
+  background: #000000;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  width: 125px;
+  text-align: center;
+}
+@media screen and (min-width: 500px) {
+  .OPAL-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(14, 14, 14, 0.65);
+  }
+}
+@media screen and (max-width: 700px) {
+  .OPAL-btn {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 20px;
+  }
+  .OPAL-btn:active {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(14, 14, 14, 0.65);
+  }
+}
+
+.netflix-btn {
+  position: absolute;
+  right: 40px;
+  bottom: 170px;
+  text-decoration: none;
+  padding: 15px 25px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 30px -6px rgba(255, 0, 0, 0);
+  background: #000000;
+  color: #ff0000;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  width: 125px;
+  text-align: center;
+}
+@media screen and (min-width: 500px) {
+  .netflix-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(14, 14, 14, 0.65);
+  }
+}
+@media screen and (max-width: 700px) {
+  .netflix-btn {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 20px;
+  }
+  .netflix-btn:active {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(14, 14, 14, 0.65);
+  }
+}
+
+.k2nblog-btn {
+  position: absolute;
+  right: 320px;
+  bottom: 50px;
+  text-decoration: none;
+  padding: 15px 25px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 30px -6px rgba(255, 0, 0, 0);
+  background: #fff;
+  color: #000000;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  min-width: 125px;
+  text-align: center;
+}
+@media screen and (min-width: 500px) {
+  .k2nblog-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(211, 211, 211, 0.65);
+  }
+}
+@media screen and (max-width: 700px) {
+  .k2nblog-btn {
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin-top: 20px;
+  }
+  .k2nblog-btn:active {
+    transform: scale(1.1);
+    box-shadow: 0px 17px 20px -6px rgba(211, 211, 211, 0.65);
+  }
+}
+
 
 .scale-out-enter-active {
   transition: all 0.35s ease-in-out;
