@@ -14,55 +14,55 @@ new Vue({
           artist: "K/DA feat. (G)I-DLE, Madison Beer, Jaira Burns",
           cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover2.jpg",
           source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/01.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://www.youtube.com/watch?v=UOxkGD8qRB4",
           favorited: false
         },
         {
           name: "POP/STARS (inst.)",
           artist: "K/DA (feat. (G)I-DLE, Madison Beer, Jaira Burns)",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/main/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover2.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/02.mp3",
+          url: "https://www.youtube.com/watch?v=UOxkGD8qRB4",
           favorited: true
         },
         {
           name: "THE BADDEST",
           artist: "K/DA (feat. Bea Miller)",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/03.mp3",
+          url: "https://www.youtube.com/watch?v=RkID8_gnTxw",
           favorited: false
         },
         {
           name: "MORE",
-          artist: "(feat. (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine)",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          artist: "K/DA (feat. (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine)",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/04.mp3",
+          url: "https://www.youtube.com/watch?v=3VTkBuxU4yk",
           favorited: false
         },
         {
           name: "VILLAIN ",
           artist: "K/DA (feat. Kim Petras)",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/05.mp3",
+          url: "https://www.youtube.com/watch?v=tzug3Dm37NQ",
           favorited: false
         },
         {
           name: "DRUM GO DUM ",
           artist: "K/DA (feat. Aluna)",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/06.mp3",
+          url: "https://www.youtube.com/watch?v=VLE6Y1q13qE",
           favorited: true
         },
         {
           name: "I'LL SHOW YOU",
-          artist: "(feat. TWICE, Annika Wells)",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          artist: "K/DA (feat. TWICE, Annika Wells)",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/07.mp3",
+          url: "https://www.youtube.com/watch?v=7ns79MgJJQY",
           favorited: false
         }
       ],
