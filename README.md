@@ -1,3 +1,1 @@
-# mini-player
-# Startuppage
 # Startuppage
