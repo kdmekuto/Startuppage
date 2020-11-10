@@ -11,9 +11,9 @@ new Vue({
       tracks: [
         {
           name: "POP/STARS",
-          artist: "K/DA (feat. (G)I-DLE, Madison Beer, Jaira Burns  ) ",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/master/mp3/02. MORE.mp3",
+          artist: "K/DA feat. (G)I-DLE, Madison Beer, Jaira Burns",
+          cover: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/img/cover2.jpg",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/main/mp3/01.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "POP/STARS (inst.)",
           artist: "K/DA (feat. (G)I-DLE, Madison Beer, Jaira Burns)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/main/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
