@@ -10,75 +10,59 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "POP/STARS",
+          artist: "K/DA (feat. (G)I-DLE, Madison Beer, Jaira Burns  ) ",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          source: "https://raw.githubusercontent.com/kdmekuto/Startuppage/master/mp3/02. MORE.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "POP/STARS (inst.)",
+          artist: "K/DA (feat. (G)I-DLE, Madison Beer, Jaira Burns)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "THE BADDEST",
+          artist: "K/DA (feat. Bea Miller)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
+          name: "MORE",
+          artist: "(feat. (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
-          favorited: true
-        },
-        {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
+          name: "VILLAIN ",
+          artist: "K/DA (feat. Kim Petras)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
+          name: "DRUM GO DUM ",
+          artist: "K/DA (feat. Aluna)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
+          name: "I'LL SHOW YOU",
+          artist: "(feat. TWICE, Annika Wells)",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-          favorited: false
-        },
-        {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
       ],
